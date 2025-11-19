@@ -1,0 +1,5 @@
+{
+  "name": "DCM Paper Visualizer",
+  "description": "Visualization of the Dynamic Cluster Memory research paper.",
+  "requestFramePermissions": []
+}
